@@ -40,5 +40,3 @@ flowchart TD
   G --> P
   P --> O
   O --> D
-
-...diagram...
